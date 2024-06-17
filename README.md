@@ -10,8 +10,12 @@ Decided to provide retexture templates for editing your own. All files are in PS
 - Gradient Hair
 - Galaxy Hair
 
+[Downloads](https://github.com/amisthiosintraining/AW2-Retexture-Templates/releases/tag/aw2sagaanderson)
+
 ### Jesse Faden
 <sup> * Night Springs dlc is required to play as Jesse Faden</sup>
 - Eyes
 - Galaxy Hair
 - Simple Gradient Hair
+
+[Downloads](https://github.com/amisthiosintraining/AW2-Retexture-Templates/releases/tag/aw2jessefaden)
