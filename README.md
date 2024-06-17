@@ -1,1 +1,1 @@
-# AW2-Retexture-Templates
+# AW2 | Retexture Templates
