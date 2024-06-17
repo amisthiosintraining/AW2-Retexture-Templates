@@ -11,9 +11,7 @@ Decided to provided edited textures for editing your own. All files are in PSD (
 - Galaxy Hair
 
 ### Jesse Faden
+<sup> * Night Springs dlc is required to play as Jesse Faden</sup>
 - Eyes
 - Galaxy Hair
 - Simple Gradient Hair
-
-<sup> * Night Springs dlc is required to play as Jesse Faden</sup>
-  
